@@ -2,7 +2,7 @@
   "name": "@lukasz/premo",
   "version": "1.0.0",
   "dependencies": {
-    "@asyncapi/generator": "0.36.4"
+    "@asyncapi/generator": "^0.36.3"
   },
   "devDependencies": {
     "@lukasz/moron": "^0.2.0"
