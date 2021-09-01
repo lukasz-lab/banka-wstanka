@@ -1,6 +1,10 @@
 {
   "name": "@lukasz/premo",
   "description": "@asyncapi/generator",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/asyncapi/generator"
+  },
   "version": "1.0.0",
   "dependencies": {
     "@asyncapi/generator": "0.36.4"
